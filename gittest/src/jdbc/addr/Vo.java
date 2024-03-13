@@ -54,4 +54,6 @@ public class Vo {
 		return "Vo [num=" + num + ", name=" + name + ", tel=" + tel + ", addr=" + addr + "]";
 	}
 	
+	// 깃 어렵노
+	
 }
